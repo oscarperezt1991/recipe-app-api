@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER Oscar Perez Tejero
+MAINTAINER oscarperezt1991
 
 ENV PYTHONUNBUFFERED 1
 
